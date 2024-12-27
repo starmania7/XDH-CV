@@ -15,17 +15,17 @@ sidebar:
     # Sidebar links
     email: xdh@envsys.k.u-tokyo.ac.jp
     phone: +81-80-5130-0116
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: starmania7.github.io/XDH-CV/ # Include the full website URL, including "http://" or "https://".
+    website: http://starmania7.github.io/XDH-CV/ # Include the full website URL, including "http://" or "https://".
     linkedin: Dianhan Xi
     xing: alandoe
     github: starmania7
-    #telegram: # add your nickname without '@' sign
+    telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    #twitter: '@jekyllrb'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@jekyllrb'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
@@ -36,22 +36,22 @@ sidebar:
     languages:
       title: Languages
       info:
+        - idiom: Chinese
+          level: 
+
         - idiom: English
-          level: Native
+          level: 
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Cycling
           link:
 
-        - item: Snowboarding
+        - item: game
           link:
 
         - item: Cooking
