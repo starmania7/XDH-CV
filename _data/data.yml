@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: http://starmania7.github.io/XDH-CV/ # Include the full website URL, including "http://" or "https://".
     linkedin: Dianhan Xi
-    xing: alandoe
+    xing: 
     github: starmania7
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -41,6 +41,9 @@ sidebar:
 
         - idiom: English
           level: Fluent
+
+        - idiom: Japanese
+          level: Beginner
 
 
     interests:
