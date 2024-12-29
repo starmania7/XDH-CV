@@ -609,9 +609,6 @@ volume-control-phone:
   name: phone-volume
 warning:
   name: triangle-exclamation
-wechat:
-  prefix: fab
-  name: weixin
 wheelchair-alt:
   prefix: fab
   name: accessible-icon
