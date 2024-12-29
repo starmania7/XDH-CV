@@ -54897,6 +54897,7 @@ xing:
 wechat:
   changes:
     - 5.0.3  # 表示 WeChat 图标在 FontAwesome 5.0.3 版本中引入
+    - 4.1.0
   familyStylesByLicense:
     free:
       - family: classic
@@ -54906,10 +54907,7 @@ wechat:
         style: brands
   label: WeChat
   search:
-    terms:
-      - chat
-      - social
-      - messaging
+    terms: []
   unicode: f1d7  # 替换为 WeChat 图标的实际 Unicode 值
   voted: false
 xmark:
