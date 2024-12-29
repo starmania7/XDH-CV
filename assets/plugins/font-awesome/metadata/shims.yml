@@ -626,7 +626,7 @@ xing-square:
   name: square-xing
 wechat-square:
   prefix: fab
-  name: square-wechat
+  name: wechat
 y-combinator-square:
   prefix: fab
   name: hacker-news
