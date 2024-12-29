@@ -54896,7 +54896,7 @@ xing:
   voted: false
 wechat:
   changes:
-    - 5.0.0  # 表示 WeChat 图标在 FontAwesome 5.0.0 版本中引入
+    - 5.0.3  # 表示 WeChat 图标在 FontAwesome 5.0.3 版本中引入
   familyStylesByLicense:
     free:
       - family: classic
