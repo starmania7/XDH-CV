@@ -45054,6 +45054,17 @@ xing:
     - brands
   unicode: f168
   voted: false
+wechat:
+  changes:
+    - 3.2.0
+    - 5.0.0
+  label: Wechat
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f168
+  voted: false
 xmark:
   aliases:
     names:
