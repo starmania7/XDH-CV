@@ -43,14 +43,10 @@
     </li>
     {% endif %}
 
-    {% if sidebar.wechat %}
-    <li class="wechat">
-      <i class="fab fa-weixin"></i> <!-- 使用 Wechat 图标 -->
-      <a href="#" onclick="showWechatImage()">{{ sidebar.wechat }}</a>
+    {% if sidebar.xing %}
+    <li class="xing"><i class="fab fa-xing"></i>
+      <a href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
     </li>
-    <div id="wechat-image" style="display: none;">
-      <img src="Wechat.jpg" alt="Wechat QR Code" style="width: 200px; height: auto;">
-    </div>
     {% endif %}
 
     {% if sidebar.github %}
