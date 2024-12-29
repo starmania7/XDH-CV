@@ -45056,14 +45056,16 @@ xing:
   voted: false
 wechat:
   changes:
-    - 3.2.0
-    - 5.0.0
-  label: Wechat
+    - 5.0.0  # 表示 WeChat 图标在 FontAwesome 5.0.0 版本中引入
+  label: WeChat
   search:
-    terms: []
+    terms:
+      - chat
+      - social
+      - messaging
   styles:
     - brands
-  unicode: f168
+  unicode: f1d7  # 替换为 WeChat 图标的实际 Unicode 值
   voted: false
 xmark:
   aliases:
