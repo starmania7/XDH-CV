@@ -58,9 +58,8 @@
     </li>
 
     <!-- 弹窗容器 -->
-    <div id="qrModal" class="modal">
-      <div class="modal-content">
-        <!-- 关闭按钮 -->
+    <div id="qrModal" class="modal" onclick="hideQRCode()">
+      <div class="modal-content" onclick="event.stopPropagation()">
         <span class="close" onclick="hideQRCode()">&times;</span>
         <!-- 二维码图片 -->
         <img class="qrcode" src="{{ site.baseurl }}/assets/images/QR.jpg" alt="WeChat QR Code">
