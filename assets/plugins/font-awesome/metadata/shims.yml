@@ -624,9 +624,9 @@ won:
 xing-square:
   prefix: fab
   name: square-xing
-wechat-square:
+wexin-square:
   prefix: fab
-  name: square-wechat
+  name: square-weixin
 y-combinator-square:
   prefix: fab
   name: hacker-news
