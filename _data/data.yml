@@ -62,12 +62,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a PhD student in Environmental Systems at The University of Tokyo, driven by a profound curiosity 
-      about the intricate harmony of marine ecosystems. My journey combines cutting-edge deep learning techniques 
-      with environmental monitoring, unveiling the unseen dynamics of underwater worlds. Through the fusion of AI 
-      innovation, multimodal data integration, and real-time 3D modeling, I strive to craft sustainable solutions 
-      for ecological conservation. Inspired by the beauty and resilience of marine life, I am committed to 
-      protecting and preserving the delicate balance of our planet’s aquatic ecosystems.
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
     title: Education
     info:
