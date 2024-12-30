@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Dianhan Xi
-    tagline: Full Stack Developer
+    tagline: PhD Student in Environmental Systems
     avatar: cv.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,7 +53,7 @@ sidebar:
         - item: Cycling
           link:
 
-        - item: gaming
+        - item: Gaming
           link:
 
         - item: fishing
@@ -71,28 +71,35 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Environmental Studies (In Progress)
+        university: The University of Tokyo
+        time: 2024 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Focusing on the integration of deep learning and multimodal data fusion 
+          for comprehensive environmental monitoring. Research aims to develop adaptive 
+          AI models and dynamic simulation techniques to address marine ecosystem challenges. 
+          Key areas of study include:
+            -Utilizing multimodal AI to analyze and predict ecosystem health.
+            -Applying advanced style transfer and segmentation techniques for underwater environmental monitoring.
+            -Investigating coral reef health dynamics and their response to environmental stressors.
+            -Developing real-time 3D modeling approaches for marine ecosystems.
+      - degree: MSc in Environmental Studies
+        university: The University of Tokyo
+        time: 2022 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Focused on applying advanced deep learning techniques to improve 
+          underwater environmental monitoring and sustainability. 
+          Key aspects include:
+            - Developing innovative methods for environmental data analysis.
+            - Enhancing efficiency and accuracy in monitoring marine ecosystems.
+            - Exploring AI-based solutions for ecosystem conservation challenges.
+      - degree: BSc in Petroleum Engineering
+        university: China University of Petroleum
+        time: 2013 - 2017
+        details: |
+          Studied the fundamentals of petroleum engineering, including exploration, 
+          extraction, and production of oil and gas resources, while strengthening 
+          mathematical and scientific knowledge to support engineering applications. 
 
 experiences:
     title: Experiences
